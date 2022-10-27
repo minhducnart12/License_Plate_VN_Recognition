@@ -1,0 +1,6 @@
+train: ../custom_dataset/images/train
+val: ../custom_dataset/images/val
+test: ../custom_dataset/images/test
+is_coco: False
+nc: 1
+names: [LB]
